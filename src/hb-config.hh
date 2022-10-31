@@ -35,6 +35,7 @@
 #include "config.h"
 #endif
 
+#define HB_BORING_EXPANSION
 #ifndef HB_BORING_EXPANSION
 #define HB_NO_BORING_EXPANSION
 #endif
